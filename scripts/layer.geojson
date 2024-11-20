@@ -1,6 +1,6 @@
 {
 "type": "FeatureCollection",
-"name": "Roketsan",
+"name": "layer",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
 { "type": "Feature", "properties": { "url": "https://www.google.com/maps/place/Roketsan/data=!4m7!3m6!1s0x4081fd70811e0cdb:0xd8e688508d1605f3!8m2!3d39.9311035!4d33.2136702!16s%2Fg%2F1tdzk14h!19sChIJ2wwegXD9gUAR8wUWjVCI5tg?authuser=0&hl=en&rclk=1", "qBF1Pd": "Roketsan", "MW4etd": 4.8, "UY7F9": "(68)", "W4Efsd": "Manufacturer", "W4Efsd 2": "·", "doJOZc": "", "W4Efsd 3": "·", "W4Efsd 4": "Yzb. Adem Kutlu Sk. No:21", "W4Efsd 5": "Open", "W4Efsd 6": "⋅ Closes 5:30 pm", "Cw1rxd": "", "R8c4Qb": "Website", "lat": 39.9311035, "lon": 33.2136702 }, "geometry": { "type": "Point", "coordinates": [ 33.2136702, 39.9311035 ] } },
